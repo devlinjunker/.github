@@ -1,16 +1,12 @@
 ---
-version: 0.10-SNAPSHOT
+version: 0.1-SNAPSHOT
 ---
 
-<img align="right" width="100" height="140" src="https://github.com/devlinjunker/template.github.docs/raw/main/img/logo-small.png">
-
-# Template Github :100: Repo
+# Default Github Repo Files
 
 <!-- Find More Badges Here: https://shields.io/ -->
-[![GitHub License](https://img.shields.io/github/license/devlinjunker/template.github.docs?color=blue)](https://github.com/devlinjunker/template.github.docs/blob/main/LICENSE)
-[![CII Best Practices Summary](https://img.shields.io/cii/summary/4553?label=core-infrastructure)](https://bestpractices.coreinfrastructure.org/en/projects/4553)
-[![GitHub last commit](https://img.shields.io/github/last-commit/devlinjunker/template.github)](https://github.com/devlinjunker/template.github.docs/commits/main)
-
+[![GitHub License](https://img.shields.io/github/license/devlinjunker/.github?color=blue)](https://github.com/devlinjunker/.github/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/devlinjunker/github)](https://github.com/devlinjunker/.github/commits/main)
 
 
 ## Intro
@@ -27,8 +23,6 @@ This is a template project with all of the basic files and directory structure f
  - [ ] Review [License](LICENSE) File
  - [ ] Review and Update [Security Policy](SECURITY.md)
    - Provide private way of reporting vulnerabilities?
- - [ ] Remove/Replace Logo files in `img/` directory
-   - If replacing, change logo location in README
  - [ ] Update this README and Links with project specific details
    - Reset Version Information
    - Update/Remove Badges
@@ -52,7 +46,6 @@ This is a template project with all of the basic files and directory structure f
 <!-- Additional Links with Related Content -->
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Contribute](CONTRIBUTING.md)
-- [FAQ](../../wiki/FAQ)
 
 ## Contributors
 
