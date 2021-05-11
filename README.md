@@ -6,7 +6,7 @@ version: 0.1-SNAPSHOT
 
 <!-- Find More Badges Here: https://shields.io/ -->
 [![GitHub License](https://img.shields.io/github/license/devlinjunker/.github?color=blue)](https://github.com/devlinjunker/.github/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/devlinjunker/github)](https://github.com/devlinjunker/.github/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/devlinjunker/.github)](https://github.com/devlinjunker/.github/commits/main)
 
 
 ## Intro
