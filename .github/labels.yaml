@@ -1,0 +1,47 @@
+## Tags
+
+- name: "-priority"
+  color: "d73a4a" # red
+  description: "Take a look at this soon!"
+- name: "good first issue"
+  color: "F4B0F5" # pink
+  description: "Good for newcomers/anyone who wants to start contributing"
+- name: "question"
+  color: "FF00BE" # fuschia 
+  description: "Further information requested"
+  
+## Types
+
+- name: "bug"
+  color: "eda15a" # orange
+  description: "Something isn't working"
+- name: "qa"
+  color: "856512" # brown
+  description: "Adding/improving testing capabalities"
+- name: "performance"
+  color: "7F54DD" # dark purple
+  description: "Performance Improvements"
+- name: "refactor"
+  color: "CDC1EA" # light purple
+  description: "Addresses Technical Debt that we should avoid"
+- name: "feature"
+  color: "0075ca" # dark blue
+  description: "New Feature"
+- name: "build"
+  color: "00A0FF" # basic blue
+  description: "Improvements to the build process"
+- name: "doc"
+  color: "3DE9F5" # teal blue
+  description: "Help improve the Documentation"
+- name: "subtask"
+  color: "C5E2FC" # light blue
+  description: "A smaller component of a larger feature/bugfix/refactor"
+- name: "poc"
+  color: "bfd4f2" # grey blue
+  description: "Proof of Concept of a Feature/Technical Design"
+- name: "example"
+  color: "FFFFFF" # white?
+  description: "Useful Example to be shared"
+- name: "dependencies"
+  color: "000000" # black?
+  description: "Updates the project dependencies"
