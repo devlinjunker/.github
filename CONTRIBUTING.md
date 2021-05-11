@@ -43,5 +43,6 @@ Any labels that are not defined in this file will be removed every time this act
 
 ### Style Guide
 <!-- Fill out a Style Guide here or link to another document or Wiki page -->
-Make sure to only include basic documentation and Github setup files in this Template!
+
+WIP...
 
